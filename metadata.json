@@ -1,0 +1,6 @@
+
+{
+  "name": "SocialResize AI",
+  "description": "An AI-powered social media image resizer that uses Gemini to outpaint and intelligently extend your photos for Instagram, Facebook, and Reels.",
+  "requestFramePermissions": []
+}
